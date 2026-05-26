@@ -121,7 +121,7 @@ export default function Invitation({ cosmosSlot }: { cosmosSlot?: ReactNode }) {
           <div className="full-name">Mr. S. Bala · M.E.</div>
           <div className="lineage">
             <span className="label">Son of</span>
-            <span>Mr. S. Sundaram &amp; Mrs. S. Kanagavalli</span>
+            <span>Mr. S. Sidharthan &amp; Mrs. S. Shanthi</span>
             <span className="city">Thiruvarur</span>
           </div>
         </article>
@@ -138,7 +138,7 @@ export default function Invitation({ cosmosSlot }: { cosmosSlot?: ReactNode }) {
           <div className="full-name">Ms. M. Gayathri · GNM</div>
           <div className="lineage">
             <span className="label">Daughter of</span>
-            <span>Mr. M. Thandavarayan &amp; Mrs. S. Meenakshi</span>
+            <span>Mr. M. Mani &amp; Mrs. M. Kalaiselvi</span>
             <span className="city">Mannargudi</span>
           </div>
         </article>
@@ -222,11 +222,11 @@ export default function Invitation({ cosmosSlot }: { cosmosSlot?: ReactNode }) {
         <p className="families">
           With the loving blessings of
           <br />
-          <strong>Sundaram &amp; Kanagavalli</strong>
+          <strong>Sidharthan &amp; Shanthi</strong>
           <br />
           and
           <br />
-          <strong>Thandavarayan &amp; Meenakshi</strong>
+          <strong>Mani &amp; Kalaiselvi</strong>
         </p>
         <div className="signoff script gold-foil">With love,</div>
         <div className="meta-bottom">Bala &amp; Gayathri · Mannargudi · 2026</div>
